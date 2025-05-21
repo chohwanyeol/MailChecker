@@ -1,0 +1,12 @@
+계정정보:
+  서버: "imap.naver.com"
+  메일계정: "id@naver.com"
+  앱패스워드: "PASSWORD"
+
+필터:
+  제목_키워드:
+    - "보고서"
+    - "긴급"
+  허용_발신자:
+    - "id@naver.com"
+
